@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import urllib.request
 
 
-f = open("categories.txt","r")
+f = open("classes.txt","r")
 classes = f.readlines()
 f.close()
 
