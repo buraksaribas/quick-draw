@@ -1,0 +1,19 @@
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    background-color: rgb(182, 182, 182);
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    border: none;
+    color: black;
+    padding: 32px 64px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

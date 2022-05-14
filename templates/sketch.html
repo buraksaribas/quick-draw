@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Quick Draw Paint!</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel="stylesheet" href="../static/css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="paint-area">
+      <input type="color"  class="color-picker">
+      <input type="range" class="line-range" min='4' max='10' value="2">
+      <label class="range-value">1</label> Px 
+    
+      <canvas id ='drawingarea' class="paint-canvas" width="600" height="500"></canvas>
+    
+      <button class="button button1" onclick=clearDrawing()>Clear Image</button>
+      <button class="button button2" onclick=submitDrawing()>Submit Drawing!</button>
+    </div>
+    <div class="display-area">
+      <canvas id ='displayarea' class="paint-canvas" width="600" height="500"></canvas>
+    </div>
+  </div>
+
+  <script  src="../static/js/script.js"></script>
+</body>
+</html>
