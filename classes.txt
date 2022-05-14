@@ -1,21 +1,11 @@
 alarm clock
 angel
-ant
-apple
 axe
-backpack
-banana
-baseball bat
 binoculars
-book
-bowtie
 broom
-bus
 butterfly
 calculator
-camel
 campfire
-car
 drums
 duck
 eyeglasses
@@ -26,25 +16,15 @@ hedgehog
 ice cream
 jail
 key
-ladder
 laptop
-mountain
 moustache
 octopus
 panda
-pig
-pizza
 rain
-rhinoceros
-snake
 strawberry
-sun
-The Eiffel Tower
 The Mona Lisa
 tooth
-traffic light
 umbrella
 violin
 wine glass
 yoga
-zigzag
